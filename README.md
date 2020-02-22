@@ -31,4 +31,5 @@ I would in the future like to try different machine learning algorithms such as 
 
 ## References
 LOGIT REGRESSION | R DATA ANALYSIS EXAMPLES: https://stats.idre.ucla.edu/r/dae/logit-regression/
+
 The caret Package: http://topepo.github.io/caret/model-training-and-tuning.html#extracting-predictions-and-class-probabilities
