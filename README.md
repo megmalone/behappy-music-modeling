@@ -1,7 +1,7 @@
 # behappy-music-modeling
 
 ## Background
-The goal of this project was to devise a way that analytics might be used to improve the Spotify user experience. I decided to build a model capable of differentiating between sad and happy songs with the thinking that it could be used to develop an application to identify when Spotify users are listening to many sad songs in a row — I call this hypothetical application "behappy". The application might then recommend happier songs for the users queue in an effort to cheer them up. 
+The goal of this project was to devise a way that analytics might be used to improve the Spotify user experience. I decided to build a model capable of differentiating between sad and happy songs with the thinking that it could be used to develop an application to identify when Spotify users are listening to many sad songs in a row — I call this hypothetical application "behappy." The application might then recommend happier songs for the users queue in an effort to cheer them up. 
 
 The current default measure of a songs happiness or lack thereof is valence. According to the Spotify API documentation, "[The valence variable is a] measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry)." This is not a perfect predictor, however, and that is why a model such as this would be necessary to develop an application that could identify sad songs more accurately.
 
